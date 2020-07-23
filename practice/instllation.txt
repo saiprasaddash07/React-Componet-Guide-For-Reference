@@ -1,0 +1,11 @@
+sudo npm install create-react-app -g (enter)
+
+navigate into the folder where you want to create the project by cd command
+
+create-react-app projectNames --scripts-version 1.1.5(//version//) enter
+
+cd projectNames
+
+npm start
+
+quit = ctrl+c

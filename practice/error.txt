@@ -1,0 +1,9 @@
+Logical errors
+
+    Go to chrome developer tool and click sources from >> button
+
+    This will show our code
+
+    We can add breakpoints in our code in chrome
+
+    We can now use chrome debugger
